@@ -4,15 +4,15 @@ const CyberSecurity = () => {
     <div className="row">
     <div className="col-sm-6 col-md-4 col-lg-4 col-xl-4">
     <div className="card" >
-  <img src="https://crushtheinfosecexams.com/wp-content/uploads/2019/04/Cybersecurity-Courses_banner-copy.jpg" className="card-img-top" alt="image"/>
+  <img src="/images/cyber1.jpg" className="card-img-top" alt="image"/>
   <div className="card-body">
-    <p className="card-text">Courses For Cybersecuriy</p>
+    <p className="card-text">Courses For Cybersecurity</p>
   </div>
   </div>
 </div>
 <div className="col-sm-6 col-md-4 col-lg-4 col-xl-4">
     <div className="card" >
-  <img src="https://conceptdata.com.au/wp-content/uploads/2021/05/Cyber1024.jpg" className="card-img-top" alt="image"/>
+  <img src="/images/cyber2.png" className="card-img-top" alt="image"/>
   <div className="card-body">
     <p className="card-text">How to Strengthen Cyber Security in Smart Manufacturing</p>
   </div>
